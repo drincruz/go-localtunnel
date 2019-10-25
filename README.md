@@ -1,4 +1,4 @@
-LocalTunnel Client Library for Go [![Build Status](https://travis-ci.org/jonasfj/go-localtunnel.svg?branch=master)](https://travis-ci.org/jonasfj/go-localtunnel)
+LocalTunnel Client Library for Go [![Build Status](https://travis-ci.org/jonasfj/go-localtunnel.svg?branch=master)](https://travis-ci.org/localtunnel/go-localtunnel)
 =================================
 
 A [localtunnel.me](https://localtunnel.me) client library exposing localtunnel
@@ -23,7 +23,7 @@ server := http.Server{
 server.Serve(listener)
 ```
 
-See [documentation](https://godoc.org/github.com/jonasfj/go-localtunnel) for
+See [documentation](https://godoc.org/github.com/localtunnel/go-localtunnel) for
 more details.
 
 
